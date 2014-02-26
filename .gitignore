@@ -1,0 +1,5 @@
+# All DS Store files
+.DS_Store
+
+# Bin dir
+obj/
